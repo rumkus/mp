@@ -1,2 +1,2 @@
 # mp
-Foe everyone!
+For everyone!
